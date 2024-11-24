@@ -28,11 +28,11 @@
 ### **Steps**  
 1. Clone the repository:  
    ```bash  
-   git clone https://github.com/Ajisco/finai.git  
+   git clone https://github.com/themihirmathur/Atmanirbhar-Finance.git  
    ```  
 2. Navigate to the project directory:  
    ```bash  
-   cd finai  
+   cd Atmanirbhar-Finance 
    ```  
 3. Install dependencies:  
    ```bash  
