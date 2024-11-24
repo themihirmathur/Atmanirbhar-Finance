@@ -4,9 +4,6 @@
 ## 🚀 **Overview**  
 **Atmanirbhar-Finance** is an AI-powered Flask application designed to provide **personalized financial and business advisory services**, particularly for SMEs and loan-related queries. Leveraging **OpenAI's GPT-3.5 Turbo** and a **machine learning model for predictive analytics**, the app offers a dynamic user interface and is seamlessly deployed on [Render](https://finai-t4wc.onrender.com).
 
-### 🌐 **Try the App**  
-Explore FinAI SME Advisor [**here**](https://finai-t4wc.onrender.com).  
-
 ---
 
 ## 📁 **Project Structure**  
