@@ -1,4 +1,4 @@
-# **Atmanirbhar-Finance**  
+# Atmanirbhar Finance  
 ![Header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Atmanirbhar%20Finance%20&fontSize=50)
 
 ## 🚀 **Overview**  
