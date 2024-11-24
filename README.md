@@ -1,7 +1,3 @@
-Here's a rephrased and polished version of the repository for your GitHub:
-
----
-
 # **FinAI SME Advisor**  
 ![Header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=FinAI%20SME%20Advisor&fontSize=50)
 
