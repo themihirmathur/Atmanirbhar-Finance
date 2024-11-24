@@ -1,8 +1,8 @@
-# **FinAI SME Advisor**  
-![Header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=FinAI%20SME%20Advisor&fontSize=50)
+# **Atmanirbhar-Finance**  
+![Header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Atmanirbhar%20Finance%20&fontSize=50)
 
 ## 🚀 **Overview**  
-**FinAI SME Advisor** is an AI-powered Flask application designed to provide **personalized financial and business advisory services**, particularly for SMEs and loan-related queries. Leveraging **OpenAI's GPT-3.5 Turbo** and a **machine learning model for predictive analytics**, the app offers a dynamic user interface and is seamlessly deployed on [Render](https://finai-t4wc.onrender.com).
+**Atmanirbhar-Finance** is an AI-powered Flask application designed to provide **personalized financial and business advisory services**, particularly for SMEs and loan-related queries. Leveraging **OpenAI's GPT-3.5 Turbo** and a **machine learning model for predictive analytics**, the app offers a dynamic user interface and is seamlessly deployed on [Render](https://finai-t4wc.onrender.com).
 
 ### 🌐 **Try the App**  
 Explore FinAI SME Advisor [**here**](https://finai-t4wc.onrender.com).  
